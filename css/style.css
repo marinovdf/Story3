@@ -5,8 +5,8 @@ body {
 }
 
 iframe {
-    width: 600px;
-    height: 336px;
+    width: 475px;
+    height: 267px;
 }
 
 section {
@@ -82,7 +82,7 @@ a:hover {
 
 .hr-top {
     background: url(../img/hor-line.jpg) no-repeat;
-    height: 8px;
+    /*height: 8px;*/
    /* border-top: 8px solid #09c;*/
     margin-top: 25px;
     padding-top: 25px;
@@ -202,6 +202,10 @@ p.cif-body span{
 }
 p.cif-footer{
     font-size: 18px;
+}
+
+.media h3.pink-text{
+    margin-top: 40px;
 }
 
 /*------------------*/
